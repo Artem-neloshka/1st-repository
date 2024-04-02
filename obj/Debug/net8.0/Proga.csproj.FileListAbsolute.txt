@@ -1,0 +1,14 @@
+C:\KPI\2 semestr\АСД\Labka 4\Proga\bin\Debug\net8.0\Proga.exe
+C:\KPI\2 semestr\АСД\Labka 4\Proga\bin\Debug\net8.0\Proga.deps.json
+C:\KPI\2 semestr\АСД\Labka 4\Proga\bin\Debug\net8.0\Proga.runtimeconfig.json
+C:\KPI\2 semestr\АСД\Labka 4\Proga\bin\Debug\net8.0\Proga.dll
+C:\KPI\2 semestr\АСД\Labka 4\Proga\bin\Debug\net8.0\Proga.pdb
+C:\KPI\2 semestr\АСД\Labka 4\Proga\obj\Debug\net8.0\Proga.GeneratedMSBuildEditorConfig.editorconfig
+C:\KPI\2 semestr\АСД\Labka 4\Proga\obj\Debug\net8.0\Proga.AssemblyInfoInputs.cache
+C:\KPI\2 semestr\АСД\Labka 4\Proga\obj\Debug\net8.0\Proga.AssemblyInfo.cs
+C:\KPI\2 semestr\АСД\Labka 4\Proga\obj\Debug\net8.0\Proga.csproj.CoreCompileInputs.cache
+C:\KPI\2 semestr\АСД\Labka 4\Proga\obj\Debug\net8.0\Proga.dll
+C:\KPI\2 semestr\АСД\Labka 4\Proga\obj\Debug\net8.0\refint\Proga.dll
+C:\KPI\2 semestr\АСД\Labka 4\Proga\obj\Debug\net8.0\Proga.pdb
+C:\KPI\2 semestr\АСД\Labka 4\Proga\obj\Debug\net8.0\Proga.genruntimeconfig.cache
+C:\KPI\2 semestr\АСД\Labka 4\Proga\obj\Debug\net8.0\ref\Proga.dll
